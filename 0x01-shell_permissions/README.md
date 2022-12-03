@@ -1,1 +1,1 @@
-a script thatbsets permissions
+ a script that sets the mode
