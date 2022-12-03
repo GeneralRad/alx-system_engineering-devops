@@ -1,1 +1,1 @@
-a script that switches the current user to the user betty
+a script that prints all the group current user part
