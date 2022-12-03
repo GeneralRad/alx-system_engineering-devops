@@ -1,1 +1,1 @@
-a script that add execute permission
+a script thatbsets permissions
