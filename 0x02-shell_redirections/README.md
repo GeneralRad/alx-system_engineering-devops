@@ -1,1 +1,1 @@
-count that word
+make your directories count
