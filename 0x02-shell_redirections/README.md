@@ -1,1 +1,1 @@
-save current state
+Duplicate last line
