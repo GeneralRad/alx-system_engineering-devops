@@ -1,1 +1,1 @@
-Dj cut killer
+count that word
