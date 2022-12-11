@@ -1,1 +1,1 @@
-A gift is ten words
+Acrostic
