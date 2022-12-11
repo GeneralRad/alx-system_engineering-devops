@@ -1,1 +1,1 @@
-what is new
+Unique is better than perfect
