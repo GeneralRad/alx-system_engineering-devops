@@ -1,1 +1,1 @@
-Human power
+Divide and rule
