@@ -1,1 +1,1 @@
-Divide and rule
+Exponent of breath
