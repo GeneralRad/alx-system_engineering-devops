@@ -1,1 +1,1 @@
-Decimal
+strong encryption
