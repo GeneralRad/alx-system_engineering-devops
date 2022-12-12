@@ -1,1 +1,1 @@
-strong encryption
+odd number
