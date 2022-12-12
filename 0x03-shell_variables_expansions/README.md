@@ -1,1 +1,1 @@
-where it leads
+Global variables
