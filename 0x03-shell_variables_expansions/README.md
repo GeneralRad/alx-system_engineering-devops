@@ -1,1 +1,1 @@
-Global variable
+Human power
