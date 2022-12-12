@@ -1,1 +1,1 @@
-Determined action
+where it leads
